@@ -9,7 +9,7 @@ I'm an IT consultant and creative developer based in the Netherlands, with a str
 Currently working on client projects with TwinPixel, AI tools, and strategic web platforms. I love turning complex challenges into understandable, governable and beautiful digital solutions.
 
 * 🌍  I'm based in Wageningen, Netherlands
-* 🖥️  See my portfolio at [Twanmeurs.nl](http://twanmeurs.nl)
+* 🖥️  See my portfolio and more about me at  [Twinpixel.nl/portfolio](http://twinpixel.nl/portfolio) or [Twanmeurs.nl](http://twanmeurs.nl)
 * ✉️  You can contact me at [meurstwan@gmail.com](mailto:meurstwan@gmail.com)
 * 🤝  I'm open to collaborating on Strategic web projects, design systems, or platform concepts
 * ⚡  Founder of TwinPixel, IT consultant at WUR, and active in local youth politics
